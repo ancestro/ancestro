@@ -1,0 +1,5 @@
+- Hola, soy ancestro
+- Estoy interesado en hackeos y troleos
+- Estoy aprendiendo Administración de Sistemas Informáticos y Redes
+- Busco colaborar en algún proyecto para aplicaciones maliciosas
+- Me podeis buscar
